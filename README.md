@@ -12,8 +12,4 @@ systems. I like that arch based systems, such as manjaro, have a small footprint
 and are highly customizable I also like the package manager pacman alot.
 I dont consider myself a linux expert, even though I should be based on all the
 years ive used linux.'''
- _  ___  ____  _   _ 
-    | |/ _ \/ ___|| | | |
- _  | | | | \___ \| |_| |
-| |_| | |_| |___) |  _  |
- \___/ \___/|____/|_| |_|
+
