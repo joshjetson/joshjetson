@@ -1,9 +1,10 @@
 <p align="center">
+ 
 <img src="https://imgur.com/YeJVn4j.png"></img>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joshjetson&label=Profile%20views&color=0e75b6&style=flat" alt="joshjetson" /> </p>
 
-<p align="center"> 
+<p align="right"> 
  
  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
