@@ -14,7 +14,7 @@
 
 <img src="https://raw.githubusercontent.com/joshjetson/joshjetson/main/assets/rule.svg" width="100%" alt="">
 
-## ▞▚ OPERATOR
+## ▞▚ WHOAMI
 
 ```
 ┌─ OPERATOR ──────────────────────────────────────────────────────────────┐
