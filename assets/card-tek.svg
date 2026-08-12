@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="176" viewBox="0 0 410 176" role="img" aria-label="tek — Terminal. Entity. Keeper.">
+  <defs>
+    <filter id="b2" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="2.1" result="g"/>
+      <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="sc2" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000000" opacity="0.20"/>
+    </pattern>
+    <linearGradient id="sw2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#57e2ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#57e2ff" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#57e2ff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="cc2"><rect width="410" height="176" rx="8"/></clipPath>
+  </defs>
+
+  <rect width="410" height="176" rx="8" fill="#060c0a"/>
+  <g clip-path="url(#cc2)">
+    <rect x="0" y="0" width="410" height="36" fill="#57e2ff" opacity="0.05"/>
+    <line x1="0" y1="36" x2="410" y2="36" stroke="#57e2ff" stroke-width="1" opacity="0.28"/>
+
+    <text x="18" y="23" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.4" fill="#ffb454" opacity="0.9">[02]</text>
+    <rect x="307" y="10" width="85" height="17" rx="8.5" fill="#ffb454" opacity="0.14"/><rect x="307" y="10" width="85" height="17" rx="8.5" fill="none" stroke="#ffb454" stroke-width="1" opacity="0.6"/><text x="349.5" y="22" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="0.6" fill="#ffb454">JETSON / PI</text>
+
+    <g filter="url(#b2)">
+      <text x="18" y="66" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="24" font-weight="700"
+            letter-spacing="0.6" fill="#57e2ff">tek</text>
+    </g>
+    <text x="18" y="86" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#2bc077">Terminal. Entity. Keeper.</text>
+    <text x="18" y="100" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#1f8a58">A face, a voice and eyes for any CLI model.</text><text x="18" y="115" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#1f8a58">Rendered head at 29fps to /dev/fb0. No X.</text><text x="18" y="130" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#1f8a58">Local wake word, STT/TTS, face recognition.</text>
+    <rect x="18" y="144" width="54" height="17" rx="8.5" fill="none" stroke="#57e2ff" stroke-width="1" opacity="0.5"/><text x="45.0" y="156" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="0.8" fill="#57e2ff" opacity="0.9">PYTHON</text><rect x="78" y="144" width="87" height="17" rx="8.5" fill="none" stroke="#57e2ff" stroke-width="1" opacity="0.5"/><text x="121.5" y="156" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="0.8" fill="#57e2ff" opacity="0.9">FRAMEBUFFER</text><rect x="171" y="144" width="54" height="17" rx="8.5" fill="none" stroke="#57e2ff" stroke-width="1" opacity="0.5"/><text x="198.0" y="156" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="0.8" fill="#57e2ff" opacity="0.9">VISION</text><rect x="231" y="144" width="34" height="17" rx="8.5" fill="none" stroke="#57e2ff" stroke-width="1" opacity="0.5"/><text x="248.0" y="156" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="0.8" fill="#57e2ff" opacity="0.9">TTS</text>
+
+    <g transform="translate(306,44)" opacity="0.95">
+    <g fill="none" stroke="#57e2ff" stroke-width="1.5" stroke-linecap="round">
+      <path d="M20 12 Q46 2 72 12 Q80 34 72 60 Q46 76 20 60 Q12 34 20 12"/>
+      <path d="M27 20 Q46 12 65 20" opacity="0.55"/>
+      <path d="M24 34 Q46 28 68 34" opacity="0.4"/>
+      <path d="M26 48 Q46 44 66 48" opacity="0.28"/>
+    </g>
+    <g fill="#57e2ff">
+      <rect x="31" y="30" width="10" height="7" rx="2">
+        <animate attributeName="height" values="7;1;7;7;7" keyTimes="0;0.04;0.09;0.9;1" dur="4.2s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="30;33;30;30;30" keyTimes="0;0.04;0.09;0.9;1" dur="4.2s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="53" y="30" width="10" height="7" rx="2">
+        <animate attributeName="height" values="7;1;7;7;7" keyTimes="0;0.04;0.09;0.9;1" dur="4.2s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="30;33;30;30;30" keyTimes="0;0.04;0.09;0.9;1" dur="4.2s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="38" y="52" width="18" height="4" rx="2">
+        <animate attributeName="height" values="3;11;4;9;3" dur="1.6s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <path d="M0 86 L14 86 L20 78 L26 92 L32 82 L38 86 L92 86" fill="none"
+          stroke="#57e2ff" stroke-width="1.2" opacity="0.75">
+      <animate attributeName="opacity" values="0.75;0.25;0.75" dur="2.1s" repeatCount="indefinite"/>
+    </path></g>
+
+    <rect x="0" y="-42" width="410" height="42" fill="url(#sw2)">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 226"
+        dur="7.5s" begin="1.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="410" height="176" fill="url(#sc2)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="409" height="175" rx="8" fill="none" stroke="#57e2ff" stroke-width="1" opacity="0.45"/>
+  <path d="M1 14 L1 1 L14 1" fill="none" stroke="#57e2ff" stroke-width="2" opacity="0.85"/>
+  <path d="M396 175 L409 175 L409 162" fill="none" stroke="#57e2ff" stroke-width="2" opacity="0.85"/>
+</svg>

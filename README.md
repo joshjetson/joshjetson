@@ -1,71 +1,98 @@
 <div align="center">
-<p align="center">
+  <img src="https://raw.githubusercontent.com/joshjetson/joshjetson/main/assets/hero.svg" width="840" alt="joshjetson — terminal software · Rust · Groovy · single-board hardware">
+</div>
 
-<img src="https://imgur.com/YeJVn4j.png"></img>
-</p>
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=joshjetson&label=Profile%20views&color=0e75b6&style=flat" alt="joshjetson" /> </p>
- </div>
-<div align="center"> 
- 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  
-  <a href="https://unix.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" alt="unix" width="40" height="40"/> </a>
- <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/vim-original.svg" alt="vim" width="40" height="40"/> </a> 
- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
- 
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
- 
- <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-
-  <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-
-
-
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
- <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
- 
-  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/apache-original.svg" alt="apache" width="40" height="40"/> </a>
-
-  <a href="https://www.openssh.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" alt="ssh" width="40" height="40"/> </a>
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
- <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+<img src="https://img.shields.io/badge/crates.io-phosphor--studio-3dfb9a?style=flat-square&labelColor=050a08&logo=rust&logoColor=3dfb9a" alt="phosphor-studio on crates.io">
+<img src="https://img.shields.io/badge/crates.io-cheshire__chess-ffb454?style=flat-square&labelColor=050a08&logo=rust&logoColor=ffb454" alt="cheshire_chess on crates.io">
+<img src="https://img.shields.io/badge/crates.io-sshing-3dfb9a?style=flat-square&labelColor=050a08&logo=rust&logoColor=3dfb9a" alt="sshing on crates.io">
+<img src="https://img.shields.io/badge/PyPI-streamlit--controllerDF-57e2ff?style=flat-square&labelColor=050a08&logo=pypi&logoColor=57e2ff" alt="streamlit-controllerDF on PyPI">
+<img src="https://komarev.com/ghpvc/?username=joshjetson&label=VISITS&color=1f8a58&style=flat-square" alt="profile views">
 
 </div>
 
+<img src="https://raw.githubusercontent.com/joshjetson/joshjetson/main/assets/rule.svg" width="100%" alt="">
 
+## ▞▚ OPERATOR
 
+```
+┌─ OPERATOR ──────────────────────────────────────────────────────────────┐
+│                                                                         │
+│   handle     joshjetson                                                 │
+│   builds     DAWs · SSH tooling · chess engines · things that talk back │
+│   ships to   crates.io · PyPI · production                              │
+│   habitat    a terminal, over SSH, usually on someone else's machine    │
+│                                                                         │
+│   ── bytes across public repos ──────────────────────────────────────   │
+│   vim script ██████████  27.8%                                          │
+│   groovy     ████████░░  23.4%                                          │
+│   rust       ████████░░  22.5%                                          │
+│   python     ████░░░░░░  11.7%                                          │
+│   lua        ███░░░░░░░   7.2%                                          │
+│                                                                         │
+│   vim script is mostly upstream vendored in with spacevim2;             │
+│   the code I actually write these days is rust and groovy.              │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
-## Featured projects
+<img src="https://raw.githubusercontent.com/joshjetson/joshjetson/main/assets/rule.svg" width="100%" alt="">
 
-<table rules=none>
- <tr>
-    <td> <img src="https://raw.githubusercontent.com/joshjetson/SCDF/master/pics/controllerdf.png"></td>
-    <td> <h2><a href="https://github.com/joshjetson/SCDF">Controller DF</a></h2><br>A Python library which allows anyone to quickly create a full featured web app to manipulate and analyze a data set using this library along side of streamlit. This project is the base of what will become a much more vast library.</td>
- </tr>
- <tr>
-    <td> <img src="https://github.com/joshjetson/URFA/blob/master/pics/URFA.png?raw=true"></td>
-    <td><h2><a href="https://github.com/joshjetson/URFA">URFA</a></h2><br>The universal repository of flagged ip addresses is a repository which can be used for testing or contributing to. It is an api which is updated hourly that contains thousands of attempted server logins by would be hackers.</td>
- </tr>
-  
-</table>
+## ▞▚ FEATURED SYSTEMS
 
-## Introduction
+<div align="center">
 
-<table>
-<tr>
-<td>
-Hi im Josh! I am a passionate python developer who loves data science related material and all things python. Along side of programming I also enjoy Linux administration,graphic design, music production, music mixing/mastering and film among other things. I am really passionate about everything im into and I spend most of the day either studying or developing new projects. Thank You for stopping by.
-</td>
-</tr>
-</table>
+<a href="https://github.com/joshjetson/phosphor"><img src="https://raw.githubusercontent.com/joshjetson/joshjetson/main/assets/card-phosphor.svg" width="410" alt="phosphor — a full DAW in your terminal"></a>
+<a href="https://github.com/joshjetson/tek"><img src="https://raw.githubusercontent.com/joshjetson/joshjetson/main/assets/card-tek.svg" width="410" alt="tek — a face, a voice and eyes for any CLI model"></a>
+<a href="https://github.com/joshjetson/sshing"><img src="https://raw.githubusercontent.com/joshjetson/joshjetson/main/assets/card-sshing.svg" width="410" alt="sshing — SSH host manager with Docker and rsync"></a>
+<a href="https://github.com/joshjetson/cheshire_chess"><img src="https://raw.githubusercontent.com/joshjetson/joshjetson/main/assets/card-cheshire_chess.svg" width="410" alt="cheshire_chess — a whole chess club in a terminal"></a>
+<a href="https://github.com/joshjetson/lambda"><img src="https://raw.githubusercontent.com/joshjetson/joshjetson/main/assets/card-lambda.svg" width="410" alt="lambda — a digital entities game"></a>
+<a href="https://github.com/joshjetson/spacevim2"><img src="https://raw.githubusercontent.com/joshjetson/joshjetson/main/assets/card-spacevim2.svg" width="410" alt="spacevim2 — SpaceVim, revived and maintained"></a>
+<a href="https://github.com/joshjetson/awana"><img src="https://raw.githubusercontent.com/joshjetson/joshjetson/main/assets/card-awana.svg" width="410" alt="awana — club management for Awana, worldwide"></a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/joshjetson/joshjetson/main/assets/rule.svg" width="100%" alt="">
+
+## ▞▚ THE REST OF THE RACK
+
+<details>
+<summary><b>[E] EXPAND</b> — other things worth a look</summary>
+
+<br>
+
+| | | |
+|---|---|---|
+| [**SCDF**](https://github.com/joshjetson/SCDF) | `python` | Streamlit dataframe controller — spin up a full data-exploration web app from one import. On PyPI as `streamlit-controllerDF`. |
+| [**URFA**](https://github.com/joshjetson/URFA) | `python` | A free, open dataset of real SSH intrusion attempts, appended hourly. ~12k commits of machine-collected attack data. |
+| [**ksh**](https://github.com/joshjetson/ksh) | `grails` | Korean language school management — Postgres full-text search, hand-rolled SSE, Docker CI/CD. |
+| [**obtPortal**](https://github.com/joshjetson/obtPortal) | `grails` | Oral Bible translation project tracking for field partners worldwide. |
+| [**joshjetson.github.io**](https://github.com/joshjetson/joshjetson.github.io) | `web` | A Journey Shared — the personal site. |
+
+</details>
+
+<details>
+<summary><b>[S] STACK</b> — what I reach for</summary>
+
+<br>
+
+**Languages**
+<img src="https://img.shields.io/badge/Rust-3dfb9a?style=flat-square&labelColor=050a08&logo=rust&logoColor=050a08" alt="Rust"> <img src="https://img.shields.io/badge/Groovy-3dfb9a?style=flat-square&labelColor=050a08&logo=apachegroovy&logoColor=050a08" alt="Groovy"> <img src="https://img.shields.io/badge/Python-3dfb9a?style=flat-square&labelColor=050a08&logo=python&logoColor=050a08" alt="Python"> <img src="https://img.shields.io/badge/Lua-3dfb9a?style=flat-square&labelColor=050a08&logo=lua&logoColor=050a08" alt="Lua"> <img src="https://img.shields.io/badge/Vim%20Script-3dfb9a?style=flat-square&labelColor=050a08&logo=vim&logoColor=050a08" alt="Vim Script"> <img src="https://img.shields.io/badge/Bash-3dfb9a?style=flat-square&labelColor=050a08&logo=gnubash&logoColor=050a08" alt="Bash">
+
+**Web**
+<img src="https://img.shields.io/badge/Grails-57e2ff?style=flat-square&labelColor=050a08&logo=grails&logoColor=050a08" alt="Grails"> <img src="https://img.shields.io/badge/HTMX-57e2ff?style=flat-square&labelColor=050a08&logo=htmx&logoColor=050a08" alt="HTMX"> <img src="https://img.shields.io/badge/Tailwind-57e2ff?style=flat-square&labelColor=050a08&logo=tailwindcss&logoColor=050a08" alt="Tailwind"> <img src="https://img.shields.io/badge/Streamlit-57e2ff?style=flat-square&labelColor=050a08&logo=streamlit&logoColor=050a08" alt="Streamlit"> <img src="https://img.shields.io/badge/FastAPI-57e2ff?style=flat-square&labelColor=050a08&logo=fastapi&logoColor=050a08" alt="FastAPI">
+
+**Data**
+<img src="https://img.shields.io/badge/PostgreSQL-ffb454?style=flat-square&labelColor=050a08&logo=postgresql&logoColor=050a08" alt="PostgreSQL"> <img src="https://img.shields.io/badge/pgvector-ffb454?style=flat-square&labelColor=050a08" alt="pgvector"> <img src="https://img.shields.io/badge/SQLite-ffb454?style=flat-square&labelColor=050a08&logo=sqlite&logoColor=050a08" alt="SQLite"> <img src="https://img.shields.io/badge/Redis-ffb454?style=flat-square&labelColor=050a08&logo=redis&logoColor=050a08" alt="Redis">
+
+**Ops + metal**
+<img src="https://img.shields.io/badge/Linux-ff5c8a?style=flat-square&labelColor=050a08&logo=linux&logoColor=050a08" alt="Linux"> <img src="https://img.shields.io/badge/Docker-ff5c8a?style=flat-square&labelColor=050a08&logo=docker&logoColor=050a08" alt="Docker"> <img src="https://img.shields.io/badge/Nginx-ff5c8a?style=flat-square&labelColor=050a08&logo=nginx&logoColor=050a08" alt="Nginx"> <img src="https://img.shields.io/badge/OpenSSH-ff5c8a?style=flat-square&labelColor=050a08&logo=openssh&logoColor=050a08" alt="OpenSSH"> <img src="https://img.shields.io/badge/Jetson%20Nano-ff5c8a?style=flat-square&labelColor=050a08&logo=nvidia&logoColor=050a08" alt="Jetson Nano"> <img src="https://img.shields.io/badge/Raspberry%20Pi-ff5c8a?style=flat-square&labelColor=050a08&logo=raspberrypi&logoColor=050a08" alt="Raspberry Pi">
+
+</details>
+
+<img src="https://raw.githubusercontent.com/joshjetson/joshjetson/main/assets/rule.svg" width="100%" alt="">
+
+<div align="center">
+  <sub><code>tek@4014:~$</code> thanks for stopping by — the tube is always warm.</sub>
+</div>

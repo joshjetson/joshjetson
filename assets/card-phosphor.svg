@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="176" viewBox="0 0 410 176" role="img" aria-label="phosphor — A full DAW that lives in your terminal.">
+  <defs>
+    <filter id="b1" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="2.1" result="g"/>
+      <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="sc1" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000000" opacity="0.20"/>
+    </pattern>
+    <linearGradient id="sw1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3dfb9a" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#3dfb9a" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#3dfb9a" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="cc1"><rect width="410" height="176" rx="8"/></clipPath>
+  </defs>
+
+  <rect width="410" height="176" rx="8" fill="#060c0a"/>
+  <g clip-path="url(#cc1)">
+    <rect x="0" y="0" width="410" height="36" fill="#3dfb9a" opacity="0.05"/>
+    <line x1="0" y1="36" x2="410" y2="36" stroke="#3dfb9a" stroke-width="1" opacity="0.28"/>
+
+    <text x="18" y="23" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.4" fill="#ffb454" opacity="0.9">[01]</text>
+    <rect x="263" y="10" width="129" height="17" rx="8.5" fill="#ffb454" opacity="0.14"/><rect x="263" y="10" width="129" height="17" rx="8.5" fill="none" stroke="#ffb454" stroke-width="1" opacity="0.6"/><text x="327.5" y="22" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="0.6" fill="#ffb454">CRATES.IO · 162 DL</text>
+
+    <g filter="url(#b1)">
+      <text x="18" y="66" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="24" font-weight="700"
+            letter-spacing="0.6" fill="#3dfb9a">phosphor</text>
+    </g>
+    <text x="18" y="86" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#2bc077">A full DAW that lives in your terminal.</text>
+    <text x="18" y="100" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#1f8a58">6 synths · 10 drum kits · 300+ patches</text><text x="18" y="115" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#1f8a58">Lock-free realtime audio thread. No mutex.</text><text x="18" y="130" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#1f8a58">MIDI auto-detected. Runs fine over SSH.</text>
+    <rect x="18" y="144" width="41" height="17" rx="8.5" fill="none" stroke="#3dfb9a" stroke-width="1" opacity="0.5"/><text x="38.5" y="156" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="0.8" fill="#3dfb9a" opacity="0.9">RUST</text><rect x="65" y="144" width="34" height="17" rx="8.5" fill="none" stroke="#3dfb9a" stroke-width="1" opacity="0.5"/><text x="82.0" y="156" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="0.8" fill="#3dfb9a" opacity="0.9">TUI</text><rect x="105" y="144" width="34" height="17" rx="8.5" fill="none" stroke="#3dfb9a" stroke-width="1" opacity="0.5"/><text x="122.0" y="156" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="0.8" fill="#3dfb9a" opacity="0.9">DSP</text><rect x="145" y="144" width="67" height="17" rx="8.5" fill="none" stroke="#3dfb9a" stroke-width="1" opacity="0.5"/><text x="178.5" y="156" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="0.8" fill="#3dfb9a" opacity="0.9">REALTIME</text>
+
+    <g transform="translate(306,44)" opacity="0.95">
+    <line x1="0" y1="34" x2="92" y2="34" stroke="#0e2b1f" stroke-width="1"/>
+    <path fill="none" stroke="#3dfb9a" stroke-width="1.7" stroke-linecap="round" d="M0 34 Q10 6 20 34 T40 34 T60 34 T80 34 T92 34">
+      <animate attributeName="d" values="M0 34 Q10 6 20 34 T40 34 T60 34 T80 34 T92 34;M0 34 Q10 52 20 34 T40 20 T60 46 T80 26 T92 34;M0 34 Q10 18 20 34 T40 50 T60 16 T80 44 T92 34;M0 34 Q10 6 20 34 T40 34 T60 34 T80 34 T92 34" dur="3.4s" repeatCount="indefinite"/>
+    </path>
+    <rect x="2" y="58" width="8" height="16" fill="#3dfb9a" opacity="0.55" rx="1"><animate attributeName="height" values="16;4;16" dur="0.9s" repeatCount="indefinite"/><animate attributeName="y" values="58;70;58" dur="0.9s" repeatCount="indefinite"/></rect><rect x="15" y="48" width="8" height="26" fill="#3dfb9a" opacity="0.55" rx="1"><animate attributeName="height" values="26;6;26" dur="1.3s" repeatCount="indefinite"/><animate attributeName="y" values="48;68;48" dur="1.3s" repeatCount="indefinite"/></rect><rect x="28" y="64" width="8" height="10" fill="#3dfb9a" opacity="0.55" rx="1"><animate attributeName="height" values="10;3;10" dur="0.7s" repeatCount="indefinite"/><animate attributeName="y" values="64;71;64" dur="0.7s" repeatCount="indefinite"/></rect><rect x="41" y="44" width="8" height="30" fill="#3dfb9a" opacity="0.55" rx="1"><animate attributeName="height" values="30;7;30" dur="1.1s" repeatCount="indefinite"/><animate attributeName="y" values="44;67;44" dur="1.1s" repeatCount="indefinite"/></rect><rect x="54" y="54" width="8" height="20" fill="#3dfb9a" opacity="0.55" rx="1"><animate attributeName="height" values="20;5;20" dur="1.5s" repeatCount="indefinite"/><animate attributeName="y" values="54;69;54" dur="1.5s" repeatCount="indefinite"/></rect><rect x="67" y="61" width="8" height="13" fill="#3dfb9a" opacity="0.55" rx="1"><animate attributeName="height" values="13;3;13" dur="0.85s" repeatCount="indefinite"/><animate attributeName="y" values="61;71;61" dur="0.85s" repeatCount="indefinite"/></rect><rect x="80" y="50" width="8" height="24" fill="#3dfb9a" opacity="0.55" rx="1"><animate attributeName="height" values="24;6;24" dur="1.2s" repeatCount="indefinite"/><animate attributeName="y" values="50;68;50" dur="1.2s" repeatCount="indefinite"/></rect></g>
+
+    <rect x="0" y="-42" width="410" height="42" fill="url(#sw1)">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 226"
+        dur="7.5s" begin="0.9s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="410" height="176" fill="url(#sc1)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="409" height="175" rx="8" fill="none" stroke="#3dfb9a" stroke-width="1" opacity="0.45"/>
+  <path d="M1 14 L1 1 L14 1" fill="none" stroke="#3dfb9a" stroke-width="2" opacity="0.85"/>
+  <path d="M396 175 L409 175 L409 162" fill="none" stroke="#3dfb9a" stroke-width="2" opacity="0.85"/>
+</svg>

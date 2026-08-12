@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="176" viewBox="0 0 410 176" role="img" aria-label="sshing — All your servers, one keystroke away.">
+  <defs>
+    <filter id="b3" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="2.1" result="g"/>
+      <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="sc3" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000000" opacity="0.20"/>
+    </pattern>
+    <linearGradient id="sw3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3dfb9a" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#3dfb9a" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#3dfb9a" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="cc3"><rect width="410" height="176" rx="8"/></clipPath>
+  </defs>
+
+  <rect width="410" height="176" rx="8" fill="#060c0a"/>
+  <g clip-path="url(#cc3)">
+    <rect x="0" y="0" width="410" height="36" fill="#3dfb9a" opacity="0.05"/>
+    <line x1="0" y1="36" x2="410" y2="36" stroke="#3dfb9a" stroke-width="1" opacity="0.28"/>
+
+    <text x="18" y="23" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.4" fill="#ffb454" opacity="0.9">[03]</text>
+    <rect x="257" y="10" width="135" height="17" rx="8.5" fill="#ffb454" opacity="0.14"/><rect x="257" y="10" width="135" height="17" rx="8.5" fill="none" stroke="#ffb454" stroke-width="1" opacity="0.6"/><text x="324.5" y="22" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="0.6" fill="#ffb454">CRATES.IO · 2 FORKS</text>
+
+    <g filter="url(#b3)">
+      <text x="18" y="66" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="24" font-weight="700"
+            letter-spacing="0.6" fill="#3dfb9a">sshing</text>
+    </g>
+    <text x="18" y="86" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#2bc077">All your servers, one keystroke away.</text>
+    <text x="18" y="100" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#1f8a58">Host manager with tags, search and flags.</text><text x="18" y="115" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#1f8a58">Drive remote Docker: logs, stats, deploys.</text><text x="18" y="130" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#1f8a58">Interactive rsync. Writes plain ssh_config.</text>
+    <rect x="18" y="144" width="41" height="17" rx="8.5" fill="none" stroke="#3dfb9a" stroke-width="1" opacity="0.5"/><text x="38.5" y="156" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="0.8" fill="#3dfb9a" opacity="0.9">RUST</text><rect x="65" y="144" width="34" height="17" rx="8.5" fill="none" stroke="#3dfb9a" stroke-width="1" opacity="0.5"/><text x="82.0" y="156" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="0.8" fill="#3dfb9a" opacity="0.9">TUI</text><rect x="105" y="144" width="54" height="17" rx="8.5" fill="none" stroke="#3dfb9a" stroke-width="1" opacity="0.5"/><text x="132.0" y="156" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="0.8" fill="#3dfb9a" opacity="0.9">DOCKER</text><rect x="165" y="144" width="54" height="17" rx="8.5" fill="none" stroke="#3dfb9a" stroke-width="1" opacity="0.5"/><text x="192.0" y="156" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="0.8" fill="#3dfb9a" opacity="0.9">DEVOPS</text>
+
+    <g transform="translate(306,44)" opacity="0.95"><rect x="0" y="6" width="92" height="13" rx="2" fill="none" stroke="#1f8a58" stroke-width="1" opacity="0.4"/><circle cx="9" cy="12.5" r="2.6" fill="#1f8a58" opacity="0.5"></circle><rect x="18" y="10.5" width="34" height="4" rx="2" fill="#1f8a58" opacity="0.3"/><rect x="0" y="24" width="92" height="13" rx="2" fill="none" stroke="#3dfb9a" stroke-width="1" opacity="0.95"/><circle cx="9" cy="30.5" r="2.6" fill="#3dfb9a" opacity="1"><animate attributeName="opacity" values="1;0.2;1" dur="1.3s" repeatCount="indefinite"/></circle><rect x="18" y="28.5" width="43" height="4" rx="2" fill="#3dfb9a" opacity="0.8"/><rect x="0" y="42" width="92" height="13" rx="2" fill="none" stroke="#1f8a58" stroke-width="1" opacity="0.4"/><circle cx="9" cy="48.5" r="2.6" fill="#1f8a58" opacity="0.5"></circle><rect x="18" y="46.5" width="52" height="4" rx="2" fill="#1f8a58" opacity="0.3"/><rect x="0" y="60" width="92" height="13" rx="2" fill="none" stroke="#1f8a58" stroke-width="1" opacity="0.4"/><circle cx="9" cy="66.5" r="2.6" fill="#1f8a58" opacity="0.5"></circle><rect x="18" y="64.5" width="61" height="4" rx="2" fill="#1f8a58" opacity="0.3"/>
+    <rect x="0" y="80" width="7" height="11" fill="#3dfb9a">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/>
+    </rect></g>
+
+    <rect x="0" y="-42" width="410" height="42" fill="url(#sw3)">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 226"
+        dur="7.5s" begin="2.7s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="410" height="176" fill="url(#sc3)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="409" height="175" rx="8" fill="none" stroke="#3dfb9a" stroke-width="1" opacity="0.45"/>
+  <path d="M1 14 L1 1 L14 1" fill="none" stroke="#3dfb9a" stroke-width="2" opacity="0.85"/>
+  <path d="M396 175 L409 175 L409 162" fill="none" stroke="#3dfb9a" stroke-width="2" opacity="0.85"/>
+</svg>
