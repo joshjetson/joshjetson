@@ -4,6 +4,7 @@
 
 <div align="center">
 
+<a href="https://virtualraremedia.com"><img src="https://img.shields.io/badge/portfolio-virtualraremedia.com-57e2ff?style=flat-square&labelColor=050a08&logo=firefoxbrowser&logoColor=57e2ff" alt="virtualraremedia.com"></a>
 <img src="https://img.shields.io/badge/crates.io-phosphor--studio-3dfb9a?style=flat-square&labelColor=050a08&logo=rust&logoColor=3dfb9a" alt="phosphor-studio on crates.io">
 <img src="https://img.shields.io/badge/crates.io-cheshire__chess-ffb454?style=flat-square&labelColor=050a08&logo=rust&logoColor=ffb454" alt="cheshire_chess on crates.io">
 <img src="https://img.shields.io/badge/crates.io-sshing-3dfb9a?style=flat-square&labelColor=050a08&logo=rust&logoColor=3dfb9a" alt="sshing on crates.io">
@@ -23,6 +24,7 @@
 │   builds     DAWs · SSH tooling · chess engines · things that talk back │
 │   ships to   crates.io · PyPI · production                              │
 │   habitat    a terminal, over SSH, usually on someone else's machine    │
+│   site       virtualraremedia.com                                       │
 │                                                                         │
 │   ── bytes across public repos ──────────────────────────────────────   │
 │   vim script ██████████  27.8%                                          │
@@ -95,4 +97,6 @@
 
 <div align="center">
   <sub><code>tek@4014:~$</code> thanks for stopping by — the tube is always warm.</sub>
+  <br>
+  <sub>more at <a href="https://virtualraremedia.com">virtualraremedia.com</a></sub>
 </div>
